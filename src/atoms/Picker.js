@@ -244,7 +244,8 @@ PickerAE.defaultProps = {
 const styles = StyleSheet.create({
     inputContainer: {
         width: "100%",
-        marginBottom: 5
+        marginBottom: 5,
+        alignItems:"center"
     },
     icon: {
         paddingRight: 15
